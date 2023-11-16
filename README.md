@@ -1,1 +1,3 @@
-# docs-xcodename
+# xcodename-docs
+
+everything as text, in markdown
